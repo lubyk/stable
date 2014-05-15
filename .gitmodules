@@ -1,0 +1,3 @@
+[submodule "modules/lub"]
+	path = modules/lub
+	url = https://github.com/lubyk/lub.git
